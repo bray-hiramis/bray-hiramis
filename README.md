@@ -14,7 +14,7 @@ Passionate about user-friendly design and functional code.
 
 ---
 
-### Tech I'm Using and Learning
+### Tech I Used and Learning
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
@@ -24,8 +24,6 @@ Passionate about user-friendly design and functional code.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
-
-Currently learning: Java and JavaFX, and Scene Builder for building UI designs.
 
 ---
 
