@@ -14,7 +14,7 @@ Passionate about user-friendly design and functional code.
 
 ---
 
-### Tech I Used and Learning
+### Tech Stack I'm Using and Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"/>
