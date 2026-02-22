@@ -28,9 +28,7 @@ Passionate about user-friendly design and functional code.
 ---
 
 ### Featured Projects
-- **[password-manager](https://github.com/bray-hiramis/password-manager)** — Desktop password manager (GAMBAS + SQLite)  
-- **[capital-command-expense-tracker](https://github.com/bray-hiramis/capital-command-expense-tracker)** — Budget tracker web app (JS + SCSS)  
-- **[celsius-to-fahrenheit](https://github.com/bray-hiramis/celsius-to-fahrenheit)** — Simple temperature converter (HTML/CSS/JS)
+- **[Privy](https://github.com/bray-hiramis/privy)** — Desktop offline password manager (Java + JavaFX + SQLite)
 
 Check out my pinned repos below!
 
