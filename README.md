@@ -31,11 +31,11 @@ Passionate about user-friendly design and functional code.
 
 #### Desktop Applications
 - **[Privy](https://github.com/bray-hiramis/privy)** — A desktop offline password manager (Java + JavaFX + SQLite + Maven)
-- **[Inventory Dashboard](https://github.com/bray-hiramis/inventory-dashboard)** - An inventory dashboard with database (Java + JavaFX + SQLite)
-- **[BillBuddy](https://github.com/bray-hiramis/billbuddy)** - A tip calculator for your restaurant/dining business (Java + JavaFX)
-- **[Ultimate Pomodor](https://github.com/bray-hiramis/ultimate-pomodoro)** - A pomodoro app that helps you focus at work (Java + JavaFX)
-- **[BMI Calculator](https://github.com/bray-hiramis/bmi-calculator)** - Calculates your BMI in Metric or Imperial measurement (Java + JavaFX)
-- **[Simple Logic Gates](https://github.com/bray-hiramis/simple-logic-gates)** - An app that teaches you basic logic gates: AND, OR, and NOT (Java + JavaFX)
+- **[Inventory Dashboard](https://github.com/bray-hiramis/inventory-dashboard)** — An inventory dashboard with database (Java + JavaFX + SQLite)
+- **[BillBuddy](https://github.com/bray-hiramis/billbuddy)** — A tip calculator for your restaurant/dining business (Java + JavaFX)
+- **[Ultimate Pomodor](https://github.com/bray-hiramis/ultimate-pomodoro)** — A pomodoro app that helps you focus at work (Java + JavaFX)
+- **[BMI Calculator](https://github.com/bray-hiramis/bmi-calculator)** — Calculates your BMI in Metric or Imperial measurement (Java + JavaFX)
+- **[Simple Logic Gates](https://github.com/bray-hiramis/simple-logic-gates)** — An app that teaches you basic logic gates: AND, OR, and NOT (Java + JavaFX)
 
 ---
 
