@@ -31,15 +31,15 @@ Passionate about user-friendly design and functional code.
 ### Featured Projects
 
 #### Web Applications
-- **[Kitchen Oracle](https://github.com/bray-hiramis/kitchen-oracle)** — A recipe finder app (HTML5, SASS(CSS), JavaScript) - [Live Demo](https://kitchen-oracle.netlify.app/)
-- **[Capital Command](https://github.com/bray-hiramis/capital-command-expense-tracker)** — An expense calculator app app (HTML5, SASS(CSS), JavaScript) - [Live Demo](https://capital-command.netlify.app/)
-- **[cfconverter](https://github.com/bray-hiramis/celsius-to-fahrenheit)** — Celsius to Fahrenheit Converter app  (HTML5, CSS3, JavaScript) - [Live Demo](https://cfconverter.netlify.app/)
+- **[Kitchen Oracle](https://github.com/bray-hiramis/kitchen-oracle)** — A recipe finder app (HTML5 + SASS(CSS) + JavaScript) — [Live Demo](https://kitchen-oracle.netlify.app/)
+- **[Capital Command](https://github.com/bray-hiramis/capital-command-expense-tracker)** — An expense calculator app app (HTML5 + SASS(CSS) + JavaScript) — [Live Demo](https://capital-command.netlify.app/)
+- **[cfconverter](https://github.com/bray-hiramis/celsius-to-fahrenheit)** — Celsius to Fahrenheit Converter app  (HTML5 + CSS3 + JavaScript) — [Live Demo](https://cfconverter.netlify.app/)
 
 #### Desktop Applications
 - **[Privy](https://github.com/bray-hiramis/privy)** — A desktop offline password manager (Java + JavaFX + SQLite + Maven)
 - **[Inventory Dashboard](https://github.com/bray-hiramis/inventory-dashboard)** — An inventory dashboard with database (Java + JavaFX + SQLite)
 - **[BillBuddy](https://github.com/bray-hiramis/billbuddy)** — A tip calculator for your restaurant/dining business (Java + JavaFX)
-- **[Ultimate Pomodor](https://github.com/bray-hiramis/ultimate-pomodoro)** — A pomodoro app that helps you focus at work (Java + JavaFX)
+- **[Ultimate Pomodoro](https://github.com/bray-hiramis/ultimate-pomodoro)** — A pomodoro app that helps you focus at work (Java + JavaFX)
 - **[BMI Calculator](https://github.com/bray-hiramis/bmi-calculator)** — Calculates your BMI in Metric or Imperial measurement (Java + JavaFX)
 - **[Simple Logic Gates](https://github.com/bray-hiramis/simple-logic-gates)** — An app that teaches you basic logic gates: AND, OR, and NOT (Java + JavaFX)
 
@@ -47,7 +47,7 @@ Passionate about user-friendly design and functional code.
 
 ### Connect
 - LinkedIn: [John Brian Hiramis](https://www.linkedin.com/in/john-brian-hiramis/)
-- Personal Email: [John Brian Hiramis](johnbrianhiramis@gmail.com)
+- Personal Email: johnbrianhiramis@gmail.com
 
 ---
 
