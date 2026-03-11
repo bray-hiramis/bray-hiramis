@@ -7,15 +7,15 @@
 ---
 
 ### About Me
-Frontend-focused developer building clean, responsive web interfaces.  
-Also create desktop applications with Java.
+
+I'm a Web and Desktop Developer building clean, responsive web interfaces
 
 Passionate about user-friendly design and functional code.
 
 ---
 
 ### My Tech Stack
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaFX-072C61?style=flat&logo=java&logoColor=white" alt="JavaFX"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL"/>
@@ -30,6 +30,11 @@ Passionate about user-friendly design and functional code.
 
 ### Featured Projects
 
+### Web Applications
+- **[Kitchen Oracle](https://github.com/bray-hiramis/kitchen-oracle)** — A recipe finder app (HTML5, SASS(CSS), JavaScript) - [Live Demo](https://kitchen-oracle.netlify.app/)
+- **[Capital Command](https://github.com/bray-hiramis/capital-command-expense-tracker)** — An expense calculator app app (HTML5, SASS(CSS), JavaScript) - [Live Demo](https://capital-command.netlify.app/)
+- **[cfconverter](https://github.com/bray-hiramis/celsius-to-fahrenheit)** — Celsius to Fahrenheit Converter app  (HTML5, CSS3, JavaScript) - [Live Demo](https://cfconverter.netlify.app/)
+
 #### Desktop Applications
 - **[Privy](https://github.com/bray-hiramis/privy)** — A desktop offline password manager (Java + JavaFX + SQLite + Maven)
 - **[Inventory Dashboard](https://github.com/bray-hiramis/inventory-dashboard)** — An inventory dashboard with database (Java + JavaFX + SQLite)
@@ -42,5 +47,8 @@ Passionate about user-friendly design and functional code.
 
 ### Connect
 - LinkedIn: [John Brian Hiramis](https://www.linkedin.com/in/john-brian-hiramis/)
+- Personal Email: [John Brian Hiramis](johnbrianhiramis@gmail.com)
+
+---
 
 Thanks for visiting!
